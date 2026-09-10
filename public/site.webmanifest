@@ -1,0 +1,18 @@
+{
+  "name": "Remorquage Ben Arous",
+  "short_name": "Remorquage",
+  "description": "Remorquage et dépannage automobile à Ben Arous et dans le Grand Tunis.",
+  "lang": "fr-TN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#05070a",
+  "theme_color": "#05070a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+  background: #05070a;
+}
+
+body {
+  font-family:
+    'Sora',
+    Arial,
+    sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+}
+
+[lang='ar'] {
+  font-family:
+    'Noto Sans Arabic',
+    Arial,
+    sans-serif;
+}

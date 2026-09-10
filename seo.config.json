@@ -1,0 +1,21 @@
+{
+  "siteUrl": "",
+  "googleSiteVerification": "",
+  "publicRoutes": ["/"],
+  "business": {
+    "name": "Remorquage Ben Arous",
+    "description": "Service de remorquage automobile disponible 24h/24 et 7j/7 à Ben Arous, Mornag et dans le Grand Tunis.",
+    "telephone": "+21621533933",
+    "areaServed": [
+      "Ben Arous",
+      "Mornag",
+      "Péage de Mornag",
+      "Tunis",
+      "Ariana",
+      "Manouba"
+    ],
+    "address": null,
+    "geo": null,
+    "sameAs": []
+  }
+}
